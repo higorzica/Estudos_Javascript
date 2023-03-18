@@ -1,2 +1,2 @@
-# Estudos_Javascript
+# Estudos de Javascript 
 Repositório criado para organizar meus estudos de JS.
