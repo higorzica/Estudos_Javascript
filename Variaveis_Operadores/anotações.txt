@@ -1,0 +1,6 @@
+-Aprendendo a declarar variaveis e trabalhar com operadores aritmeticos:
+
+SOMA
+SUBTRAÇÃO
+DIVISÃO 
+MULTIPLICAÇÃO

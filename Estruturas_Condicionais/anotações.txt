@@ -1,0 +1,19 @@
+Importante:
+
+- %  É USADO PARA DESCOBRIR SE TEM RESTO NA DIVISÃO CONSEQUENTEMENTE 
+SABEREMOS SE É PAR O NUMERO.
+
+- " === " usamos os 3 sinais de igual para saber se possui igualdade.
+
+- " == " usamos os 2 sinais de igual para verificar se tem igualdade em texto(string).
+
+- " = " usamos 1 sinal de igual para fazer atribuição
+
+IF E ELSE
+Estrutura para fazer uma condição sobre a função acima.
+- if( EscreveFunction( variavel )) {
+
+}
+
+- É possivel usar else if quantas vezes quiser durante uma condição
+mas o else deve ser sempre o ultimo da condição.
