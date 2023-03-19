@@ -1,0 +1,3 @@
+Importante 
+-Caso não queria realizar nenhum arredondamento apenas exibir as casas
+ decimais desejadas Variavel.toFixed(2 nº de casas decimais).
