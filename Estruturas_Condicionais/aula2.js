@@ -17,3 +17,4 @@ if(numero === 0){
 } else {
     console.log('Eu sou Impar')
 }
+
